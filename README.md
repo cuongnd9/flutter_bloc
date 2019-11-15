@@ -1,6 +1,6 @@
 # flutter_bloc_starter
 
-A new Flutter project.
+💉 Integrate Bloc for Flutter app.
 
 ## Getting Started
 
