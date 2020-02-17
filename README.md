@@ -1,4 +1,4 @@
-# flutter_bloc_starter
+# flutter_bloc
 
 💉 Integrate Bloc for Flutter app.
 
